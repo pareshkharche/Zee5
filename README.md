@@ -15,7 +15,7 @@
 
 ## Live Action 🌏
 
-ZEE5 CLONE {netlify} :-https://legendary-dasik-96605c.netlify.app/
+ZEE5 CLONE {netlify} :-
 ## Author ✍️
 
 Paresh Kharche
