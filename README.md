@@ -15,7 +15,7 @@
 
 ## Live Action 🌏
 
-ZEE5 CLONE {netlify} :-
+ZEE5 CLONE {netlify} :- https://pareshkharche.github.io/Zee5/
 ## Author ✍️
 
 Paresh Kharche
